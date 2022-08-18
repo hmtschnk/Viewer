@@ -1,0 +1,5 @@
+How to start
+
+1. $ npm update --force
+2. $ npm install --force
+3. $ npm start
